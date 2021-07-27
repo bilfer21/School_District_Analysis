@@ -8,7 +8,7 @@ The purpose of this analysis was to evaluate the overall impact on school distri
 
 * The results of the revised analysis indicate that the overall figures in the district analysis were essentially unchanged with the removal of the nith grade students.
 
-
+https://github.com/bilfer21/School_District_Analysis/blob/main/Original_district_summary.PNG
 
 
 
