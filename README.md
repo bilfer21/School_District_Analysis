@@ -26,9 +26,7 @@ https://github.com/bilfer21/School_District_Analysis/blob/main/Original_by_schoo
 
 https://github.com/bilfer21/School_District_Analysis/blob/main/Revised_by_school_type.PNG
 
-* The elimination of the ninth grade scores for Thomas High school dramatically impacted the percentage passing math, percentage passing reading, and overall passing percentage for the school, with those percentages increasing for each category. Prior to the removal of the students, Thomas High School had a passing math percentage of 66.9%, a passing reading percentage of 69.7%, and an overall passing percentage across both subjects of 65.1%. Following the score removal, the Thomas High School passing math percentage increased to 93.2%, the passing reading percentage increased to 97.0%, and the overall passing percentage across both subjects increased to 90.6%. These statistics are more in line with figures seen from other charter type schools.
-
-
+* The elimination of the ninth grade scores for Thomas High school dramatically impacted the percentage passing math, percentage passing reading, and overall passing percentage for the school, with those percentages increasing for each category. Prior to the removal of the students, Thomas High School had a passing math percentage of 66.9%, a passing reading percentage of 69.7%, and an overall passing percentage across both subjects of 65.1%. Following the removal of the scores, the Thomas High School passing math percentage increased to 93.2%, the passing reading percentage increased to 97.0%, and the overall passing percentage across both subjects increased to 90.6%. These statistics are more in line with figures seen from other charter type schools.
 
 
 ## Summary
