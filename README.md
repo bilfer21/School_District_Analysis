@@ -24,6 +24,6 @@ https://github.com/bilfer21/School_District_Analysis/blob/main/Original_by_schoo
 
 Revised district statistics by school type
 
-
+https://github.com/bilfer21/School_District_Analysis/blob/main/Revised_by_school_type.PNG
 
 ## Summary
